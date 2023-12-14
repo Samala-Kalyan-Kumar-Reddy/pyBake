@@ -1,0 +1,6 @@
+*.pyc
+# test.py
+.idea/
+.vscode/
+.DS_Store
+test.py
